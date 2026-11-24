@@ -1,0 +1,14 @@
+<annotation>
+  <folder>images</folder>
+  <filename>train_region03_2021_clean_000915.tif</filename>
+  <path>../data/training/tiles_binary_4regions_clean\images\train_region03_2021_clean_000915.tif</path>
+  <source>
+    <database>GeoAI</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>6</depth>
+  </size>
+  <segmented>1</segmented>
+</annotation>

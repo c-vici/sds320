@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>train_region02_2021_clean_000794.tif</filename>
+  <path>../data/training/tiles_binary_4regions_clean\images\train_region02_2021_clean_000794.tif</path>
+  <source>
+    <database>GeoAI</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>6</depth>
+  </size>
+  <segmented>1</segmented>
+  <object>
+    <name>1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>161</xmin>
+      <ymin>219</ymin>
+      <xmax>206</xmax>
+      <ymax>255</ymax>
+    </bndbox>
+  </object>
+</annotation>
